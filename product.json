@@ -1,1479 +1,1402 @@
-{
-    "posts": [
-    {
-      "id": "1",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 1.jpeg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 1.jpeg",
-        "/assets/imgs/products-imgs/Product 2.jpeg",
-        "/assets/imgs/products-imgs/Product 3.jpeg"
-      ],
-      "category": "bestSeller",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "28.00 ",
-      "quantity": "13 ",
-      "overall": "4.8",
-      "ratingstars": "4",
-      "recommended": "205 of 219 reviewers recommend this product",
-      "effectiveness": "5/5",
-      "texture": "5/5",
-      "vfm": "5/5",
-      "packaging": "4/5",
-      "userRecommend": "94%",
-      "userRepurchase": "90%",
-      "productComments": [
-        {
-          "userName": "Vincent Burgess",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user1.avif",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": "02 Oct 2023"
-        },
-        {
-          "userName": "Lenora Armstrong",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user2.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": "Francesko Toti",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user3.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": "22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "toner",
-        "oil"
-      ]
-    },
-    {
-      "id": "2",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 2.jpeg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 2.jpeg",
-        "/assets/imgs/products-imgs/Product 2.jpeg",
-        "/assets/imgs/products-imgs/Product 2.jpeg"
-      ],
-      "category": "bestSeller",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "15.99 ",
-      "quantity": "10",
-      "overall": "4.7",
-      "ratingstars": "4",
-      "recommended": "190 of 200 reviewers recommend this product",
-      "effectiveness": "4/5",
-      "texture": "5/5",
-      "vfm": "5/5",
-      "packaging": "4/5",
-      "userRecommend": "95%",
-      "userRepurchase": "85%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user5.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user6.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "sensitive",
-        "lotion"
-      ]
-    },
-    {
-      "id": "3",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 3.jpeg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 3.jpeg",
-        "/assets/imgs/products-imgs/Product 3.jpeg",
-        "/assets/imgs/products-imgs/Product 3.jpeg"
-      ],
-      "category": "bestSeller",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "50.00 ",
-      "quantity": "4",
-      "overall": "4.9",
-      "ratingstars": "4.5",
-      "recommended": "315 of 319 reviewers recommend this product",
-      "effectiveness": "5/5",
-      "texture": "4/5",
-      "vfm": "5/5",
-      "packaging": "5/5",
-      "userRecommend": "99%",
-      "userRepurchase": "93%",
-      "productComments": [
-        {
-          "userName": "Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user1.avif",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user5.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "cleaners",
-        "lotion"
-      ]
-    },
-    {
-      "id": "4",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 4.webp",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 4.webp",
-        "/assets/imgs/products-imgs/Product 4.webp",
-        "/assets/imgs/products-imgs/Product 4.webp"
-      ],
-      "category": "bestSeller",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "25.00 ",
-      "quantity": "14 ",
-      "overall": "4.5",
-      "ratingstars": "4",
-      "recommended": "220 of 280 reviewers recommend this product",
-      "effectiveness": "4/5",
-      "texture": "5/5",
-      "vfm": "4/5",
-      "packaging": "4/5",
-      "userRecommend": "78%",
-      "userRepurchase": "88%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user5.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user6.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "cream",
-        "masks"
-      ]
-    },
-    {
-      "id": "5",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 5.jpg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 5.jpg",
-        "/assets/imgs/products-imgs/Product 5.jpg",
-        "/assets/imgs/products-imgs/Product 5.jpg"
-      ],
-      "category": "bestSeller",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "27.00 ",
-      "quantity": "24 ",
-      "overall": "4.8",
-      "ratingstars": "4",
-      "recommended": "250 of 290 reviewers recommend this product",
-      "effectiveness": "5/5",
-      "texture": "5/5",
-      "vfm": "5/5",
-      "packaging": "4/5",
-      "userRecommend": "86%",
-      "userRepurchase": "80%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user1.avif",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user2.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "toner",
-        "dry"
-      ]
-    },
-    {
-      "id": "6",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 6.webp",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 6.webp",
-        "/assets/imgs/products-imgs/Product 6.webp",
-        "/assets/imgs/products-imgs/Product 6.webp"
-      ],
-      "category": "bestSeller",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "29.57 ",
-      "quantity": "17",
-      "overall": "4.2",
-      "ratingstars": "4",
-      "recommended": "205 of 219 reviewers recommend this product",
-      "effectiveness": "3/5",
-      "texture": "5/5",
-      "vfm": "4/5",
-      "packaging": "5/5",
-      "userRecommend": "94%",
-      "userRepurchase": "90%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user3.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user5.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user6.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "cleaners",
-        "sensitive"
-      ]
-    },
-    {
-      "id": "7",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 7.jpg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 7.jpg",
-        "/assets/imgs/products-imgs/Product 7.jpg",
-        "/assets/imgs/products-imgs/Product 7.jpg"
-      ],
-      "category": "bestSeller",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "26.66 ",
-      "quantity": "2",
-      "overall": "4.1",
-      "ratingstars": "4",
-      "recommended": "208 of 220 reviewers recommend this product",
-      "effectiveness": "5/5",
-      "texture": "5/5",
-      "vfm": "5/5",
-      "packaging": "5/5",
-      "userRecommend": "95%",
-      "userRepurchase": "84%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user2.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user6.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "masks",
-        "oily"
-      ]
-    },
-    {
-      "id": "8",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "assets/imgs/products-imgs/thumbnail/Product 8.jpeg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 8.jpeg",
-        "/assets/imgs/products-imgs/Product 8.jpeg",
-        "/assets/imgs/products-imgs/Product 8.jpeg"
-      ],
-      "category": "bestSeller",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "27.58 ",
-      "quantity": "100",
-      "overall": "4.8",
-      "ratingstars": "4",
-      "recommended": "120 of 140 reviewers recommend this product",
-      "effectiveness": "5/5",
-      "texture": "5/5",
-      "vfm": "5/5",
-      "packaging": "4/5",
-      "userRecommend": "86%",
-      "userRepurchase": "60%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user3.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user1.avif",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user2.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "toner",
-        "lotion"
-      ]
-    },
-    {
-      "id": "9",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 9.jpeg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 9.jpeg",
-        "/assets/imgs/products-imgs/Product 9.jpeg",
-        "/assets/imgs/products-imgs/Product 9.jpeg"
-      ],
-      "category": "bestSeller",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "39.99 ",
-      "quantity": "16",
-      "overall": "4.4",
-      "ratingstars": "4",
-      "recommended": "130 of 140 reviewers recommend this product",
-      "effectiveness": "5/5",
-      "texture": "4/5",
-      "vfm": "5/5",
-      "packaging": "4/5",
-      "userRecommend": "93%",
-      "userRepurchase": "80%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user2.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user1.avif",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user5.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "cleaners",
-        "cream"
-      ]
-    },
-    {
-      "id": "10",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 10.jpg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 10.jpg",
-        "/assets/imgs/products-imgs/Product 10.jpg",
-        "/assets/imgs/products-imgs/Product 10.jpg"
-      ],
-      "category": "bestSeller",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "29.99 ",
-      "quantity": "15",
-      "overall": "4.8",
-      "ratingstars": "4",
-      "recommended": "225 of 271 reviewers recommend this product",
-      "effectiveness": "5/5",
-      "texture": "5/5",
-      "vfm": "5/5",
-      "packaging": "4/5",
-      "userRecommend": "83%",
-      "userRepurchase": "93%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user3.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user6.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "masks",
-        "oil"
-      ]
-    },
-    {
-      "id": "11",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 11.jpeg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 11.jpeg",
-        "/assets/imgs/products-imgs/Product 11.jpeg",
-        "/assets/imgs/products-imgs/Product 11.jpeg"
-      ],
-      "category": "bestieDeals",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "38.00 ",
-      "quantity": "17",
-      "overall": "4.9",
-      "ratingstars": "4.5",
-      "recommended": "50 of 62 reviewers recommend this product",
-      "effectiveness": "5/5",
-      "texture": "5/5",
-      "vfm": "5/5",
-      "packaging": "4/5",
-      "userRecommend": "80%",
-      "userRepurchase": "97%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user1.avif",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user6.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "toner",
-        "dry"
-      ]
-    },
-    {
-      "id": "12",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 12.jpg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 12.jpg",
-        "/assets/imgs/products-imgs/Product 12.jpg",
-        "/assets/imgs/products-imgs/Product 12.jpg"
-      ],
-      "category": "bestieDeals",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "48.00 ",
-      "quantity": "19",
-      "overall": "4.0",
-      "ratingstars": "4",
-      "recommended": "312 of 330 reviewers recommend this product",
-      "effectiveness": "5/5",
-      "texture": "5/5",
-      "vfm": "3/5",
-      "packaging": "4/5",
-      "userRecommend": "95%",
-      "userRepurchase": "96%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user1.avif",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user6.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "toner",
-        "cream"
-      ]
-    },
-    {
-      "id": "13",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 13.jpg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 13.jpg",
-        "/assets/imgs/products-imgs/Product 13.jpg",
-        "/assets/imgs/products-imgs/Product 13.jpg"
-      ],
-      "category": "bestieDeals",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "29.33 ",
-      "quantity": "22 ",
-      "overall": "4.8",
-      "ratingstars": "4",
-      "recommended": "226 of 265 reviewers recommend this product",
-      "effectiveness": "5/5",
-      "texture": "5/5",
-      "vfm": "5/5",
-      "packaging": "5/5",
-      "userRecommend": "85%",
-      "userRepurchase": "70%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user2.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user6.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "toner",
-        "lotion"
-      ]
-    },
-    {
-      "id": "14",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 14.jpeg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 14.jpeg",
-        "/assets/imgs/products-imgs/Product 14.jpeg",
-        "/assets/imgs/products-imgs/Product 14.jpeg"
-      ],
-      "category": "bestieDeals",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "21.19 ",
-      "quantity": "25 ",
-      "overall": "4.9",
-      "ratingstars": "4.5",
-      "recommended": "310 of 315 reviewers recommend this product",
-      "effectiveness": "5/5",
-      "texture": "4/5",
-      "vfm": "5/5",
-      "packaging": "5/5",
-      "userRecommend": "98%",
-      "userRepurchase": "97%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user5.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user3.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user1.avif",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "masks",
-        "cream"
-      ]
-    },
-    {
-      "id": "15",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 15.jpeg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 15.jpeg",
-        "/assets/imgs/products-imgs/Product 15.jpeg",
-        "/assets/imgs/products-imgs/Product 15.jpeg"
-      ],
-      "category": "bestieDeals",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "39.99 ",
-      "quantity": "17 ",
-      "overall": "4.9",
-      "ratingstars": "4.5",
-      "recommended": "366 of 390 reviewers recommend this product",
-      "effectiveness": "5/5",
-      "texture": "5/5",
-      "vfm": "5/5",
-      "packaging": "5/5",
-      "userRecommend": "93%",
-      "userRepurchase": "96%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user2.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user5.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user1.avif",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "cleaners",
-        "lotion"
-      ]
-    },
-    {
-      "id": "16",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 16.jpg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 16.jpg",
-        "/assets/imgs/products-imgs/Product 16.jpg",
-        "/assets/imgs/products-imgs/Product 16.jpg"
-      ],
-      "category": "newBeauty",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "99.99 ",
-      "quantity": "21 ",
-      "overall": "4.2",
-      "ratingstars": "4",
-      "recommended": "60 of 80 reviewers recommend this product",
-      "effectiveness": "5/5",
-      "texture": "3/5",
-      "vfm": "5/5",
-      "packaging": "4/5",
-      "userRecommend": "75%",
-      "userRepurchase": "60%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user5.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user6.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "masks",
-        "cream"
-      ]
-    },
-    {
-      "id": "17",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 17.webp",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 17.webp",
-        "/assets/imgs/products-imgs/Product 17.webp",
-        "/assets/imgs/products-imgs/Product 17.webp"
-      ],
-      "category": "newBeauty",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "15.33 ",
-      "quantity": "33",
-      "overall": "4.0",
-      "ratingstars": "4",
-      "recommended": "100 of 150 reviewers recommend this product",
-      "effectiveness": "5/5",
-      "texture": "4/5",
-      "vfm": "5/5",
-      "packaging": "4/5",
-      "userRecommend": "56%",
-      "userRepurchase": "40%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user1.avif",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user5.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user6.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "masks",
-        "oily"
-      ]
-    },
-    {
-      "id": "18",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 18.jpg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 18.jpg",
-        "/assets/imgs/products-imgs/Product 18.jpg",
-        "/assets/imgs/products-imgs/Product 18.jpg"
-      ],
-      "category": "newBeauty",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "32.99 ",
-      "quantity": "35 ",
-      "overall": "3.9",
-      "ratingstars": "3",
-      "recommended": "64 of 90 reviewers recommend this product",
-      "effectiveness": "4/5",
-      "texture": "3/5",
-      "vfm": "4/5",
-      "packaging": "4/5",
-      "userRecommend": "71%",
-      "userRepurchase": "35%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user2.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user6.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "cleaners",
-        "sensitive"
-      ]
-    },
-    {
-      "id": "19",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 19.jpg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 19.jpg",
-        "/assets/imgs/products-imgs/Product 19.jpg",
-        "/assets/imgs/products-imgs/Product 19.jpg"
-      ],
-      "category": "newBeauty",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "25.00 ",
-      "quantity": "11",
-      "overall": "3.8",
-      "ratingstars": "3",
-      "recommended": "230 of 300 reviewers recommend this product",
-      "effectiveness": "3/5",
-      "texture": "4/5",
-      "vfm": "4/5",
-      "packaging": "4/5",
-      "userRecommend": "77%",
-      "userRepurchase": "50%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user3.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user6.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user2.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "sensitive",
-        "cream"
-      ]
-    },
-    {
-      "id": "20",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 20.jpg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 20.jpg",
-        "/assets/imgs/products-imgs/Product 20.jpg",
-        "/assets/imgs/products-imgs/Product 20.jpg"
-      ],
-      "category": "newBeauty",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "89.00 ",
-      "quantity": "3",
-      "overall": "4.0",
-      "ratingstars": "4",
-      "recommended": "133 of 180 reviewers recommend this product",
-      "effectiveness": "4/5",
-      "texture": "5/5",
-      "vfm": "4/5",
-      "packaging": "4/5",
-      "userRecommend": "73%",
-      "userRepurchase": "60%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user2.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user6.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "dry",
-        "cream"
-      ]
-    },
-    {
-      "id": "21",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 2.jpeg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 2.jpeg",
-        "/assets/imgs/products-imgs/Product 2.jpeg",
-        "/assets/imgs/products-imgs/Product 2.jpeg"
-      ],
-      "category": "mustHave",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "45.00 ",
-      "quantity": "7",
-      "overall": "4.3",
-      "ratingstars": "4",
-      "recommended": "242 of 300 reviewers recommend this product",
-      "effectiveness": "5/5",
-      "texture": "3/5",
-      "vfm": "4/5",
-      "packaging": "4/5",
-      "userRecommend": "81%",
-      "userRepurchase": "90%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user2.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user1.avif",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "oily",
-        "lotion"
-      ]
-    },
-    {
-      "id": "22",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 3.jpeg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 3.jpeg",
-        "/assets/imgs/products-imgs/Product 3.jpeg",
-        "/assets/imgs/products-imgs/Product 3.jpeg"
-      ],
-      "category": "mustHave",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "35.00 ",
-      "quantity": "9",
-      "overall": "5.0",
-      "ratingstars": "5",
-      "recommended": "400 of 399 reviewers recommend this product",
-      "effectiveness": "5/5",
-      "texture": "5/5",
-      "vfm": "5/5",
-      "packaging": "5/5",
-      "userRecommend": "99%",
-      "userRepurchase": "99%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user6.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user5.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "masks",
-        "sensitive"
-      ]
-    },
-    {
-      "id": "23",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 1.jpeg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 1.jpeg",
-        "/assets/imgs/products-imgs/Product 1.jpeg",
-        "/assets/imgs/products-imgs/Product 1.jpeg"
-      ],
-      "category": "mustHave",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "31.00 ",
-      "quantity": "10",
-      "overall": "4.7",
-      "ratingstars": "4",
-      "recommended": "200 of 400 reviewers recommend this product",
-      "effectiveness": "5/5",
-      "texture": "5/5",
-      "vfm": "5/5",
-      "packaging": "4/5",
-      "userRecommend": "50%",
-      "userRepurchase": "80%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user3.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "cleaners",
-        "cream"
-      ]
-    },
-    {
-      "id": "24",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 10.jpg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 10.jpg",
-        "/assets/imgs/products-imgs/Product 10.jpg",
-        "/assets/imgs/products-imgs/Product 10.jpg"
-      ],
-      "category": "mustHave",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "87.00 ",
-      "quantity": "1",
-      "overall": "4.4",
-      "ratingstars": "4",
-      "recommended": "333 of 444 reviewers recommend this product",
-      "effectiveness": "4/5",
-      "texture": "4/5",
-      "vfm": "5/5",
-      "packaging": "4/5",
-      "userRecommend": "75%",
-      "userRepurchase": "80%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user3.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user5.jpg",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "toner",
-        "oil"
-      ]
-    },
-    {
-      "id": "25",
-      "title": "Trial Kit for Oily Skin",
-      "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 7.jpg",
-      "imgs": [
-        "/assets/imgs/products-imgs/Product 7.jpg",
-        "/assets/imgs/products-imgs/Product 7.jpg",
-        "/assets/imgs/products-imgs/Product 7.jpg"
-      ],
-      "category": "mustHave",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
-      "price": "28.00 ",
-      "quantity": "5 ",
-      "overall": "4.8",
-      "ratingstars": "4.5",
-      "recommended": "120 of 140 reviewers recommend this product",
-      "effectiveness": "5/5",
-      "texture": "5/5",
-      "vfm": "5/5",
-      "packaging": "5/5",
-      "userRecommend": "86%",
-      "userRepurchase": "60%",
-      "productComments": [
-        {
-          "userName": " Burgess Vincent",
-          "userMainComment": "Great moisturizing mask ",
-          "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
-          "userImage": "/assets/imgs/product-comments/user1.avif",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "10 likes",
-          "date": " 02 Oct 2023"
-        },
-        {
-          "userName": " Armstrong Lenora ",
-          "userMainComment": "Great skin care product ",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "4",
-          "likes": "5 likes",
-          "date": " 04 Nov 2023"
-        },
-        {
-          "userName": " Toti Francesko",
-          "userMainComment": "Easy to use and affordable",
-          "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
-          "userImage": "/assets/imgs/product-comments/user4.webp",
-          "userVerified": "Verified Buyer",
-          "userRating": "5",
-          "likes": "7 likes",
-          "date": " 22 Sep 2023"
-        }
-      ],
-      "tags": [
-        "toner",
-        "oil"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 1.jpeg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 1.jpeg",
+      "/assets/imgs/products-imgs/Product 2.jpeg",
+      "/assets/imgs/products-imgs/Product 3.jpeg"
+    ],
+    "category": "bestSeller",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "28.00 ",
+    "quantity": "13 ",
+    "overall": "4.8",
+    "ratingstars": "4",
+    "recommended": "205 of 219 reviewers recommend this product",
+    "effectiveness": "5/5",
+    "texture": "5/5",
+    "vfm": "5/5",
+    "packaging": "4/5",
+    "userRecommend": "94%",
+    "userRepurchase": "90%",
+    "productComments": [
+      {
+        "userName": "Vincent Burgess",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user1.avif",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": "02 Oct 2023"
+      },
+      {
+        "userName": "Lenora Armstrong",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user2.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": "Francesko Toti",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user3.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": "22 Sep 2023"
+      }
+    ],
+    "tags": ["toner", "oil"]
+  },
+  {
+    "id": "2",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 2.jpeg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 2.jpeg",
+      "/assets/imgs/products-imgs/Product 2.jpeg",
+      "/assets/imgs/products-imgs/Product 2.jpeg"
+    ],
+    "category": "bestSeller",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "15.99 ",
+    "quantity": "10",
+    "overall": "4.7",
+    "ratingstars": "4",
+    "recommended": "190 of 200 reviewers recommend this product",
+    "effectiveness": "4/5",
+    "texture": "5/5",
+    "vfm": "5/5",
+    "packaging": "4/5",
+    "userRecommend": "95%",
+    "userRepurchase": "85%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user5.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user6.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["sensitive", "lotion"]
+  },
+  {
+    "id": "3",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 3.jpeg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 3.jpeg",
+      "/assets/imgs/products-imgs/Product 3.jpeg",
+      "/assets/imgs/products-imgs/Product 3.jpeg"
+    ],
+    "category": "bestSeller",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "50.00 ",
+    "quantity": "4",
+    "overall": "4.9",
+    "ratingstars": "4.5",
+    "recommended": "315 of 319 reviewers recommend this product",
+    "effectiveness": "5/5",
+    "texture": "4/5",
+    "vfm": "5/5",
+    "packaging": "5/5",
+    "userRecommend": "99%",
+    "userRepurchase": "93%",
+    "productComments": [
+      {
+        "userName": "Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user1.avif",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user5.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["cleaners", "lotion"]
+  },
+  {
+    "id": "4",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 4.webp",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 4.webp",
+      "/assets/imgs/products-imgs/Product 4.webp",
+      "/assets/imgs/products-imgs/Product 4.webp"
+    ],
+    "category": "bestSeller",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "25.00 ",
+    "quantity": "14 ",
+    "overall": "4.5",
+    "ratingstars": "4",
+    "recommended": "220 of 280 reviewers recommend this product",
+    "effectiveness": "4/5",
+    "texture": "5/5",
+    "vfm": "4/5",
+    "packaging": "4/5",
+    "userRecommend": "78%",
+    "userRepurchase": "88%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user5.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user6.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["cream", "masks"]
+  },
+  {
+    "id": "5",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 5.jpg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 5.jpg",
+      "/assets/imgs/products-imgs/Product 5.jpg",
+      "/assets/imgs/products-imgs/Product 5.jpg"
+    ],
+    "category": "bestSeller",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "27.00 ",
+    "quantity": "24 ",
+    "overall": "4.8",
+    "ratingstars": "4",
+    "recommended": "250 of 290 reviewers recommend this product",
+    "effectiveness": "5/5",
+    "texture": "5/5",
+    "vfm": "5/5",
+    "packaging": "4/5",
+    "userRecommend": "86%",
+    "userRepurchase": "80%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user1.avif",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user2.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["toner", "dry"]
+  },
+  {
+    "id": "6",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 6.webp",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 6.webp",
+      "/assets/imgs/products-imgs/Product 6.webp",
+      "/assets/imgs/products-imgs/Product 6.webp"
+    ],
+    "category": "bestSeller",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "29.57 ",
+    "quantity": "17",
+    "overall": "4.2",
+    "ratingstars": "4",
+    "recommended": "205 of 219 reviewers recommend this product",
+    "effectiveness": "3/5",
+    "texture": "5/5",
+    "vfm": "4/5",
+    "packaging": "5/5",
+    "userRecommend": "94%",
+    "userRepurchase": "90%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user3.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user5.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user6.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["cleaners", "sensitive"]
+  },
+  {
+    "id": "7",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 7.jpg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 7.jpg",
+      "/assets/imgs/products-imgs/Product 7.jpg",
+      "/assets/imgs/products-imgs/Product 7.jpg"
+    ],
+    "category": "bestSeller",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "26.66 ",
+    "quantity": "2",
+    "overall": "4.1",
+    "ratingstars": "4",
+    "recommended": "208 of 220 reviewers recommend this product",
+    "effectiveness": "5/5",
+    "texture": "5/5",
+    "vfm": "5/5",
+    "packaging": "5/5",
+    "userRecommend": "95%",
+    "userRepurchase": "84%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user2.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user6.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["masks", "oily"]
+  },
+  {
+    "id": "8",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "assets/imgs/products-imgs/thumbnail/Product 8.jpeg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 8.jpeg",
+      "/assets/imgs/products-imgs/Product 8.jpeg",
+      "/assets/imgs/products-imgs/Product 8.jpeg"
+    ],
+    "category": "bestSeller",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "27.58 ",
+    "quantity": "100",
+    "overall": "4.8",
+    "ratingstars": "4",
+    "recommended": "120 of 140 reviewers recommend this product",
+    "effectiveness": "5/5",
+    "texture": "5/5",
+    "vfm": "5/5",
+    "packaging": "4/5",
+    "userRecommend": "86%",
+    "userRepurchase": "60%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user3.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user1.avif",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user2.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["toner", "lotion"]
+  },
+  {
+    "id": "9",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 9.jpeg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 9.jpeg",
+      "/assets/imgs/products-imgs/Product 9.jpeg",
+      "/assets/imgs/products-imgs/Product 9.jpeg"
+    ],
+    "category": "bestSeller",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "39.99 ",
+    "quantity": "16",
+    "overall": "4.4",
+    "ratingstars": "4",
+    "recommended": "130 of 140 reviewers recommend this product",
+    "effectiveness": "5/5",
+    "texture": "4/5",
+    "vfm": "5/5",
+    "packaging": "4/5",
+    "userRecommend": "93%",
+    "userRepurchase": "80%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user2.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user1.avif",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user5.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["cleaners", "cream"]
+  },
+  {
+    "id": "10",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 10.jpg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 10.jpg",
+      "/assets/imgs/products-imgs/Product 10.jpg",
+      "/assets/imgs/products-imgs/Product 10.jpg"
+    ],
+    "category": "bestSeller",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "29.99 ",
+    "quantity": "15",
+    "overall": "4.8",
+    "ratingstars": "4",
+    "recommended": "225 of 271 reviewers recommend this product",
+    "effectiveness": "5/5",
+    "texture": "5/5",
+    "vfm": "5/5",
+    "packaging": "4/5",
+    "userRecommend": "83%",
+    "userRepurchase": "93%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user3.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user6.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["masks", "oil"]
+  },
+  {
+    "id": "11",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 11.jpeg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 11.jpeg",
+      "/assets/imgs/products-imgs/Product 11.jpeg",
+      "/assets/imgs/products-imgs/Product 11.jpeg"
+    ],
+    "category": "bestieDeals",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "38.00 ",
+    "quantity": "17",
+    "overall": "4.9",
+    "ratingstars": "4.5",
+    "recommended": "50 of 62 reviewers recommend this product",
+    "effectiveness": "5/5",
+    "texture": "5/5",
+    "vfm": "5/5",
+    "packaging": "4/5",
+    "userRecommend": "80%",
+    "userRepurchase": "97%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user1.avif",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user6.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["toner", "dry"]
+  },
+  {
+    "id": "12",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 12.jpg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 12.jpg",
+      "/assets/imgs/products-imgs/Product 12.jpg",
+      "/assets/imgs/products-imgs/Product 12.jpg"
+    ],
+    "category": "bestieDeals",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "48.00 ",
+    "quantity": "19",
+    "overall": "4.0",
+    "ratingstars": "4",
+    "recommended": "312 of 330 reviewers recommend this product",
+    "effectiveness": "5/5",
+    "texture": "5/5",
+    "vfm": "3/5",
+    "packaging": "4/5",
+    "userRecommend": "95%",
+    "userRepurchase": "96%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user1.avif",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user6.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["toner", "cream"]
+  },
+  {
+    "id": "13",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 13.jpg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 13.jpg",
+      "/assets/imgs/products-imgs/Product 13.jpg",
+      "/assets/imgs/products-imgs/Product 13.jpg"
+    ],
+    "category": "bestieDeals",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "29.33 ",
+    "quantity": "22 ",
+    "overall": "4.8",
+    "ratingstars": "4",
+    "recommended": "226 of 265 reviewers recommend this product",
+    "effectiveness": "5/5",
+    "texture": "5/5",
+    "vfm": "5/5",
+    "packaging": "5/5",
+    "userRecommend": "85%",
+    "userRepurchase": "70%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user2.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user6.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["toner", "lotion"]
+  },
+  {
+    "id": "14",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 14.jpeg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 14.jpeg",
+      "/assets/imgs/products-imgs/Product 14.jpeg",
+      "/assets/imgs/products-imgs/Product 14.jpeg"
+    ],
+    "category": "bestieDeals",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "21.19 ",
+    "quantity": "25 ",
+    "overall": "4.9",
+    "ratingstars": "4.5",
+    "recommended": "310 of 315 reviewers recommend this product",
+    "effectiveness": "5/5",
+    "texture": "4/5",
+    "vfm": "5/5",
+    "packaging": "5/5",
+    "userRecommend": "98%",
+    "userRepurchase": "97%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user5.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user3.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user1.avif",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["masks", "cream"]
+  },
+  {
+    "id": "15",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 15.jpeg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 15.jpeg",
+      "/assets/imgs/products-imgs/Product 15.jpeg",
+      "/assets/imgs/products-imgs/Product 15.jpeg"
+    ],
+    "category": "bestieDeals",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "39.99 ",
+    "quantity": "17 ",
+    "overall": "4.9",
+    "ratingstars": "4.5",
+    "recommended": "366 of 390 reviewers recommend this product",
+    "effectiveness": "5/5",
+    "texture": "5/5",
+    "vfm": "5/5",
+    "packaging": "5/5",
+    "userRecommend": "93%",
+    "userRepurchase": "96%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user2.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user5.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user1.avif",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["cleaners", "lotion"]
+  },
+  {
+    "id": "16",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 16.jpg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 16.jpg",
+      "/assets/imgs/products-imgs/Product 16.jpg",
+      "/assets/imgs/products-imgs/Product 16.jpg"
+    ],
+    "category": "newBeauty",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "99.99 ",
+    "quantity": "21 ",
+    "overall": "4.2",
+    "ratingstars": "4",
+    "recommended": "60 of 80 reviewers recommend this product",
+    "effectiveness": "5/5",
+    "texture": "3/5",
+    "vfm": "5/5",
+    "packaging": "4/5",
+    "userRecommend": "75%",
+    "userRepurchase": "60%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user5.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user6.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["masks", "cream"]
+  },
+  {
+    "id": "17",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 17.webp",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 17.webp",
+      "/assets/imgs/products-imgs/Product 17.webp",
+      "/assets/imgs/products-imgs/Product 17.webp"
+    ],
+    "category": "newBeauty",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "15.33 ",
+    "quantity": "33",
+    "overall": "4.0",
+    "ratingstars": "4",
+    "recommended": "100 of 150 reviewers recommend this product",
+    "effectiveness": "5/5",
+    "texture": "4/5",
+    "vfm": "5/5",
+    "packaging": "4/5",
+    "userRecommend": "56%",
+    "userRepurchase": "40%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user1.avif",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user5.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user6.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["masks", "oily"]
+  },
+  {
+    "id": "18",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 18.jpg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 18.jpg",
+      "/assets/imgs/products-imgs/Product 18.jpg",
+      "/assets/imgs/products-imgs/Product 18.jpg"
+    ],
+    "category": "newBeauty",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "32.99 ",
+    "quantity": "35 ",
+    "overall": "3.9",
+    "ratingstars": "3",
+    "recommended": "64 of 90 reviewers recommend this product",
+    "effectiveness": "4/5",
+    "texture": "3/5",
+    "vfm": "4/5",
+    "packaging": "4/5",
+    "userRecommend": "71%",
+    "userRepurchase": "35%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user2.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user6.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["cleaners", "sensitive"]
+  },
+  {
+    "id": "19",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 19.jpg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 19.jpg",
+      "/assets/imgs/products-imgs/Product 19.jpg",
+      "/assets/imgs/products-imgs/Product 19.jpg"
+    ],
+    "category": "newBeauty",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "25.00 ",
+    "quantity": "11",
+    "overall": "3.8",
+    "ratingstars": "3",
+    "recommended": "230 of 300 reviewers recommend this product",
+    "effectiveness": "3/5",
+    "texture": "4/5",
+    "vfm": "4/5",
+    "packaging": "4/5",
+    "userRecommend": "77%",
+    "userRepurchase": "50%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user3.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user6.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user2.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["sensitive", "cream"]
+  },
+  {
+    "id": "20",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 20.jpg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 20.jpg",
+      "/assets/imgs/products-imgs/Product 20.jpg",
+      "/assets/imgs/products-imgs/Product 20.jpg"
+    ],
+    "category": "newBeauty",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "89.00 ",
+    "quantity": "3",
+    "overall": "4.0",
+    "ratingstars": "4",
+    "recommended": "133 of 180 reviewers recommend this product",
+    "effectiveness": "4/5",
+    "texture": "5/5",
+    "vfm": "4/5",
+    "packaging": "4/5",
+    "userRecommend": "73%",
+    "userRepurchase": "60%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user2.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user6.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["dry", "cream"]
+  },
+  {
+    "id": "21",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 2.jpeg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 2.jpeg",
+      "/assets/imgs/products-imgs/Product 2.jpeg",
+      "/assets/imgs/products-imgs/Product 2.jpeg"
+    ],
+    "category": "mustHave",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "45.00 ",
+    "quantity": "7",
+    "overall": "4.3",
+    "ratingstars": "4",
+    "recommended": "242 of 300 reviewers recommend this product",
+    "effectiveness": "5/5",
+    "texture": "3/5",
+    "vfm": "4/5",
+    "packaging": "4/5",
+    "userRecommend": "81%",
+    "userRepurchase": "90%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user2.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user1.avif",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["oily", "lotion"]
+  },
+  {
+    "id": "22",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 3.jpeg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 3.jpeg",
+      "/assets/imgs/products-imgs/Product 3.jpeg",
+      "/assets/imgs/products-imgs/Product 3.jpeg"
+    ],
+    "category": "mustHave",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "35.00 ",
+    "quantity": "9",
+    "overall": "5.0",
+    "ratingstars": "5",
+    "recommended": "400 of 399 reviewers recommend this product",
+    "effectiveness": "5/5",
+    "texture": "5/5",
+    "vfm": "5/5",
+    "packaging": "5/5",
+    "userRecommend": "99%",
+    "userRepurchase": "99%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user6.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user5.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["masks", "sensitive"]
+  },
+  {
+    "id": "23",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 1.jpeg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 1.jpeg",
+      "/assets/imgs/products-imgs/Product 1.jpeg",
+      "/assets/imgs/products-imgs/Product 1.jpeg"
+    ],
+    "category": "mustHave",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "31.00 ",
+    "quantity": "10",
+    "overall": "4.7",
+    "ratingstars": "4",
+    "recommended": "200 of 400 reviewers recommend this product",
+    "effectiveness": "5/5",
+    "texture": "5/5",
+    "vfm": "5/5",
+    "packaging": "4/5",
+    "userRecommend": "50%",
+    "userRepurchase": "80%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user3.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["cleaners", "cream"]
+  },
+  {
+    "id": "24",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 10.jpg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 10.jpg",
+      "/assets/imgs/products-imgs/Product 10.jpg",
+      "/assets/imgs/products-imgs/Product 10.jpg"
+    ],
+    "category": "mustHave",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "87.00 ",
+    "quantity": "1",
+    "overall": "4.4",
+    "ratingstars": "4",
+    "recommended": "333 of 444 reviewers recommend this product",
+    "effectiveness": "4/5",
+    "texture": "4/5",
+    "vfm": "5/5",
+    "packaging": "4/5",
+    "userRecommend": "75%",
+    "userRepurchase": "80%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user3.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user5.jpg",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["toner", "oil"]
+  },
+  {
+    "id": "25",
+    "title": "Trial Kit for Oily Skin",
+    "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 7.jpg",
+    "imgs": [
+      "/assets/imgs/products-imgs/Product 7.jpg",
+      "/assets/imgs/products-imgs/Product 7.jpg",
+      "/assets/imgs/products-imgs/Product 7.jpg"
+    ],
+    "category": "mustHave",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+    "price": "28.00 ",
+    "quantity": "5 ",
+    "overall": "4.8",
+    "ratingstars": "4.5",
+    "recommended": "120 of 140 reviewers recommend this product",
+    "effectiveness": "5/5",
+    "texture": "5/5",
+    "vfm": "5/5",
+    "packaging": "5/5",
+    "userRecommend": "86%",
+    "userRepurchase": "60%",
+    "productComments": [
+      {
+        "userName": " Burgess Vincent",
+        "userMainComment": "Great moisturizing mask ",
+        "userComment": "This really works!! it helped me to remove dark spots and made me feeling good",
+        "userImage": "/assets/imgs/product-comments/user1.avif",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "10 likes",
+        "date": " 02 Oct 2023"
+      },
+      {
+        "userName": " Armstrong Lenora ",
+        "userMainComment": "Great skin care product ",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "4",
+        "likes": "5 likes",
+        "date": " 04 Nov 2023"
+      },
+      {
+        "userName": " Toti Francesko",
+        "userMainComment": "Easy to use and affordable",
+        "userComment": "Smells nice leaves my skin felling good, soft and smooth i recommend it",
+        "userImage": "/assets/imgs/product-comments/user4.webp",
+        "userVerified": "Verified Buyer",
+        "userRating": "5",
+        "likes": "7 likes",
+        "date": " 22 Sep 2023"
+      }
+    ],
+    "tags": ["toner", "oil"]
+  }
+]
