@@ -1,0 +1,27 @@
+{
+
+    "comments": [
+      {
+        "name": "Rihanna Ronaldo",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+        "img": "/assets/imgs/comment imgs/person 1.jpeg"
+      },
+      {
+        "name": "Lana Del Rey",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+        "img": "/assets/imgs/comment imgs/person 2.jpg"
+      },
+      {
+        "name": "Shakira Isabel",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+        "img": "/assets/imgs/comment imgs/person 3.jpeg"
+      },
+      {
+        "name": "Sia Kate",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nam incidunt blanditiis laboriosam, maxime numquam itaque, odio officiis praesentium dolore delectus, quasi corrupti! Velit, reiciendis deserunt temporibus quae maxime autem?",
+        "img": "/assets/imgs/comment imgs/person 4.jpeg"
+      }
+    ]
+   
+    
+  }

@@ -1,0 +1,15 @@
+{
+
+    "myBag": [
+      {
+        "title": "Trial Kit for Oily Skin",
+        "id": "6",
+        "quantity": "17",
+        "valueOfQuantity": 4,
+        "thumbnail": "/assets/imgs/products-imgs/thumbnail/Product 6.webp",
+        "originalPrice": "29.57 ",
+        "purchasePrice": 118.28
+      }
+    ]
+    
+  }
