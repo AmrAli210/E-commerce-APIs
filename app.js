@@ -13,7 +13,6 @@ app.use(bodyParser.json());
 app.use(cors());
 
 app.get("/products", async function (req, res, next) {
-  const category = req.query.category;
 
   if (req.query.category != null) {
     const products = productsData.filter((categ) => {
@@ -21,8 +20,45 @@ app.get("/products", async function (req, res, next) {
     });
     return res.send(products);
   }
-  res.send(productsData);
+
+  if (req.query.id != null) {
+    const product = productsData.find((productId) => productId.id === req.query.id);
+
+    if (product) {
+      return res.send(product);
+    } else {
+      return res.status(404).json({ message: "Product not found" });
+    }
+  }
+
+  return res.send(productsData);
 });
+
+//   if (req.query.category != null) {
+//     const products = productsData.filter((categ) => {
+//       return categ.category == req.query.category;
+//     });
+//     return res.send(products);
+//   }
+
+//   if (req.query.id != null) {
+//     const product = productsData.find((productId) => productId.id == req.query.id);
+  
+//     if (product) {
+//       res.send(product);
+//     } else {
+//       res.status(404).send({ message: "Product not found" });
+//     }
+//   } 
+//   // if (req.query.id != null) {
+//   //  productsData.filter((productId) => {
+//   //   productId.id === req.query.id?
+//   //   res.send(productId): console.log(productId)
+//   //   });
+//   // }
+
+//   return res.send(productsData);
+// });
 
 app.get("/comments", (req, res) => {
   res.send(commentsData);
@@ -30,6 +66,62 @@ app.get("/comments", (req, res) => {
 app.get("/mybag", (req, res) => {
   res.send(mybagData);
 });
+
+app.post("/mybag", (req, res) => {
+  const { id, title, thumbnail, originalPrice, quantity, valueOfQuantity,purchasePrice } = req.body;
+
+  const newItem = { id, title, thumbnail, originalPrice, quantity, valueOfQuantity,purchasePrice };
+  let itemExist = mybagData.some((item) => item.id === newItem.id)
+
+  if(itemExist)
+  {
+    return res.status(400).json({ message: "This product is already in your bag" });
+  }
+  else {
+    mybagData.push(newItem);
+  }
+
+ return res.json({ message: "Item added to my bag successfully"});
+
+});
+
+
+app.put("/mybag/:id", (req, res) => {
+  const itemId = req.params.id;
+  const { valueOfQuantity, purchasePrice } = req.body;
+
+  const itemIndex = mybagData.findIndex((item) => item.id === itemId);
+
+  if (itemIndex === -1) {
+    return res.status(404).json({ message: "Item not found in the shopping bag" });
+  }
+
+  const updatedItem = {
+    ...mybagData[itemIndex],
+    valueOfQuantity: valueOfQuantity || mybagData[itemIndex].valueOfQuantity,
+    purchasePrice: purchasePrice || mybagData[itemIndex].purchasePrice,
+  };
+
+  mybagData[itemIndex] = updatedItem;
+
+  return res.json({ message: "Item in the shopping bag updated successfully", updatedItem });
+});
+
+
+app.delete("/mybag/:id", (req, res) => {
+  const itemId = req.params.id;
+
+  const itemIndex = mybagData.findIndex((item) => item.id === itemId);
+
+  if (itemIndex === -1) {
+    return res.status(404).json({ message: "Item not found in the shopping bag" });
+  }
+
+  const removedItem = mybagData.splice(itemIndex, 1)[0];
+
+  return res.json({ message: "Item removed from the shopping bag successfully", removedItem });
+});
+
 
 app.post("/api/register", (req, res) => {
   const { fullname, email, phone, password } = req.body;
@@ -67,6 +159,8 @@ app.post("/api/login", (req, res) => {
   let token = jwt.sign({ email }, "nFj2!$9KpQa3ZmC5", { expiresIn: "1M" }); // Token expires in 1 hour
   res.json({ token });
 });
+
+
 
 app.listen(port, () => {
   console.log(`Server is running on  http://localhost:${port}`);
